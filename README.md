@@ -8,3 +8,6 @@ Functionalities
 4. When is user will write a comment in the comment box the number of comments will get increased.
 5. A scroller is also present in the modal for details information.
 
+To run the project
+1.npm i to install all the dependency
+2.npm run start
